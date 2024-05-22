@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.date {
+    display: flex;
+}
+p{
+    margin: 15px 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+span{
+    margin-left: 10px;
+}
